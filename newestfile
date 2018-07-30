@@ -2,4 +2,5 @@
 ;; If you want to create a file, visit that file with C-x C-f,
 ;; then enter the text in that file's own buffer.
 
-going to try something else....!!!!!
+<<<<<<< HEAD
+going to try something else....!!!!! Will it work?
