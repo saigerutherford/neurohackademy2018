@@ -10,7 +10,7 @@ jobs:
           command: |
             python3 -m venv myenv
             . myenv/bin/activate
-            pip install numpy
+            pip install numpy pandas
       - run:
           command: |
             . myenv/bin/activate
